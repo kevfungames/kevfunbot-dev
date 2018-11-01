@@ -1,0 +1,19 @@
+{
+  "name": "kevfunbot-dev",
+  "version": "1.0.0",
+  "description": "KevFunBot",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kfg"
+  ],
+  "author": "KevFunGames",
+  "license": "ISC"
+}
